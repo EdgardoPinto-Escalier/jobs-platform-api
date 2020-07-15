@@ -32,7 +32,8 @@
   "homepage": "https://github.com/EdgardoPinto-Escalier/jobs-platform-api#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mongoose": "^5.9.24"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
